@@ -1,7 +1,13 @@
 /* CSS CUSTOM STYLES */
 
+.glyphicon-large {
+	font-size: 1.5em;}
+
 .container-cap{
 	margin-top:50px;}
+.hover-green:hover {color: green;}
+
+@media (max-width:991px){blockquote{ font-size: 14px;}}
 	
 .video-container {
 	position: relative;
