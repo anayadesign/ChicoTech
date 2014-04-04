@@ -13,7 +13,8 @@
 	background-color: #000;}
 .hover-green:hover {color: green;}
 
-h1 {color: #009245;}
+h1 {color: #009245;
+	font-size: 48px;}
 h1 small {color: #FFFFFF;}
 
 section {margin: 60px auto 30px;}
