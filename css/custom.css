@@ -17,7 +17,7 @@
 h1 {color: #009245;}
 h1 small {color: #FFFFFF;}
 
-section {margin: 50px auto 75px;}
+section {margin: 60px auto 30px;}
 
 @media (max-width:991px){blockquote{ font-size: 14px;}}
 	
