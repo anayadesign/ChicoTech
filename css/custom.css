@@ -10,15 +10,20 @@
 	background-repeat: no-repeat;
 	background-size: 900px;
 	background-position:center;
-	background-color: #000;
-	height: 35em;}
-	.hover-green:hover {color: green;}
+	background-color: #000;}
+.hover-green:hover {color: green;}
 
 h1 {color: #009245;}
 h1 small {color: #FFFFFF;}
 
 section {margin: 60px auto 30px;}
-
+.mainfooter {
+	background-image: url(../images/circuitroots1.jpg);
+	background-repeat: no-repeat;
+	background-size: 900px;
+	background-position: top center;
+	background-color: #000;
+	color: #FFFFFF;}
 @media (max-width:991px){blockquote{ font-size: 14px;}}
 	
 .video-container {
